@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gurgen
+# Hi 👋 I'm Gurgena
 
 💻 Backend Developer (Junior)  
 🐍 Python | Django | Django REST Framework | PostgreSQL

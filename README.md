@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Gurgen
 
-<!--
-**gurgenaim2124/gurgenaim2124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer (Junior)  
+🐍 Python | Django | Django REST Framework | PostgreSQL
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m focused on building backend projects and REST APIs.  
+I learn by building real projects and improving them step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Git & GitHub
+
+## 📂 Projects
+Check out my repositories below — they include REST APIs, CRUD apps, and backend practice projects.
+
+## 📈 Currently
+- Improving backend fundamentals
+- Practicing clean code & API design
+- Learning by doing 🚀
+
+🌍 Open to junior backend opportunities

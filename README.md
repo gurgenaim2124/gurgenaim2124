@@ -1,25 +1,43 @@
-# Hi 👋 I'm Gurgena
+# Hi 👋 I'm Gurgen
 
-💻 Backend Developer (Junior)  
-🐍 Python | Django | Django REST Framework | PostgreSQL
+💻 Backend Developer | Django & DRF  
+🚀 Learning JavaScript & Full Stack  
+🌍 Based in Georgia  
 
-## 🚀 About Me
-I’m focused on building backend projects and REST APIs.  
-I learn by building real projects and improving them step by step.
+---
 
-## 🛠️ Tech Stack
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- Git & GitHub
+## 🧠 About Me
 
-## 📂 Projects
-Check out my repositories below — they include REST APIs, CRUD apps, and backend practice projects.
+- 🔭 Currently building REST APIs
+- 📚 Improving Django, DRF, PostgreSQL
+- ⚡ Working toward high-income remote career
+- 🎯 Goal: $25k+/month within 1 year
 
-## 📈 Currently
-- Improving backend fundamentals
-- Practicing clean code & API design
-- Learning by doing 🚀
+---
 
-🌍 Open to junior backend opportunities
+## 🛠 Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Gurgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: (add link)
+- Email: gurgenidze2421@gmail.com
+

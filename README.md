@@ -30,14 +30,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Gurgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact Me
 
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/giorgi-gurgenidze-906b933a6/
 - Email: gurgenidze2421@gmail.com
 

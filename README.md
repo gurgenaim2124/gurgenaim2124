@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [შენი სახელი]
+# Hi there 👋 I'm Gurgena
 
 ### 👨‍💻 Backend Developer | Python Enthusiast
 
